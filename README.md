@@ -6,7 +6,7 @@
 ## critères de validation
 - respecter la template de diagramme de classe
 - realiser le diagramme de classe avec le programme powerAmc 
-- livrable doit être fichier readme et présentation 
+- livrable doit être fichier readme et présentation google slide 
 
 
 ## Reference
