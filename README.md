@@ -1,4 +1,4 @@
-# conception
+# diagramme de classes
 ## Travail à faire
 
 - création d’un diagramme de classe cnmh global 
