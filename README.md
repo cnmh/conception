@@ -12,7 +12,7 @@
 ## Reference
 [création d’un diagramme de classe utilisant un powerAmc](https://www.youtube.com/watch?v=s3aR3GPdXUA) 
 
-[le lien de PowerAmc sur drive](https://drive.google.com/drive/folders/1Do18IciHx7k5eW7zYHPkwMWWJobaW6s2) 
+[le lien de l'application PowerAmc sur drive](https://drive.google.com/drive/folders/1Do18IciHx7k5eW7zYHPkwMWWJobaW6s2) 
 
 ## Solution
 [création d’un diagramme de classe utilisant un powerAmc](https://www.youtube.com/watch?v=s3aR3GPdXUA) 
