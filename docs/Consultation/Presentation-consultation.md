@@ -25,29 +25,51 @@
 
 ## Empathie : Infirmière de médecine général
 
-![Image de vectore](../images/empathie-Infirmière.jpg)
+![empathie de médecine général](../images/empathie-Infirmière.jpg)
 
 <!-- new slide -->
 
 ## Empathie : Assistant dentaire
 
-![Image de vectore](../images/empathie-dentaire.jpg)
+![empathie de assistant dentaire](../images/empathie-dentaire.jpg)
 
 <!-- new slide -->
 
 ## Empathie : Orthoptiste
 
-![Image de vectore](../images/empathie-Orthoptiste.jpg)
+![empathie de Orthoptiste](../images/empathie-Orthoptiste.jpg)
 
 <!-- new slide -->
 
 ## Empathie : Psychomotrice
 
-![Image de vectore](../images/empathie-psychomotrice.jpg)
+![empathie de Psychomotrice](../images/empathie-psychomotrice.jpg)
 
 <!-- new slide -->
 
 ## Empathie : Orthophoniste
 
-![Image de vectore](../images/empathie-orthophoniste.jpg)
+![empathie de Orthophoniste](../images/empathie-orthophoniste.jpg)
 
+<!-- new slide -->
+
+## Schemas de navigation de médecine général
+
+![Navigation](../images/navigation.jpg)
+
+<!-- new slide -->
+
+## Diagramme de cas d'utilisation
+
+![Diagramme de cas d'utilisation](../images/cas-utilisation.jpg)
+
+<!-- new slide -->
+
+
+#### Conception
+
+<!-- new slide -->
+
+## Diagramme de class
+
+![Diagramme de class](../images/diagramme-class.jpg)
