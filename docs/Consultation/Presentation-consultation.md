@@ -1,5 +1,7 @@
 
-![Image de vectore](../images/logo1.png)
+![logo-cnmh](../images/logo1.png)
+![logo-ofppt](../images/logo2.png)
+![logo-solicode](../images/logo3.png)
 
 ## Présentation de consultation
 
@@ -23,37 +25,37 @@
 
 <!-- new slide -->
 
-## Empathie : Infirmière de médecine général
+### Empathie : Infirmière de médecine général
 
 ![empathie de médecine général](../images/empathie-Infirmière.jpg)
 
 <!-- new slide -->
 
-## Empathie : Assistant dentaire
+### Empathie : Assistant dentaire
 
 ![empathie de assistant dentaire](../images/empathie-dentaire.jpg)
 
 <!-- new slide -->
 
-## Empathie : Orthoptiste
+### Empathie : Orthoptiste
 
 ![empathie de Orthoptiste](../images/empathie-Orthoptiste.jpg)
 
 <!-- new slide -->
 
-## Empathie : Psychomotrice
+### Empathie : Psychomotrice
 
 ![empathie de Psychomotrice](../images/empathie-psychomotrice.jpg)
 
 <!-- new slide -->
 
-## Empathie : Orthophoniste
+### Empathie : Orthophoniste
 
 ![empathie de Orthophoniste](../images/empathie-orthophoniste.jpg)
 
 <!-- new slide -->
 
-## Schemas de navigation de médecine général
+### Schemas de navigation de médecine général
 
 ![Navigation](../images/navigation.jpg)
 
